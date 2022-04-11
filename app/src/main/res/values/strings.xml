@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">VVUExamPermitApp</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">Exam Permit\nVerification\nApp</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+
+
+    <string name="title_usbtest">USB Reader</string>
+    <string name="title_bttest">Bluetooth Reader</string>
+
+    <string name="title_usbtest1">USB Reader Fingerprint Test</string>
+    <string name="title_usbtest2">USB Reader Others Test</string>
+    <string name="title_bttest1">Bluetooth Reader Fingerprint Test</string>
+    <string name="title_bttest2">Bluetooth Reader Card Test</string>
+
+    <string name="action_settings">Initialize Sensor</string>
+    <string name="status">Plase Open Reader</string>
+    <string name="txt_status"></string>
+    <string name="txt_bt1">Open RTxx Device</string>
+    <string name="txt_bt2">Close RTxx Device</string>
+    <string name="txt_bt9">Get Fingerprint Image</string>
+    <string name="txt_bt10">Enrol Template</string>
+    <string name="txt_bt11">Generate and Match Template</string>
+    <string name="txt_image">Fingerprint Image</string>
+
+    <!--  BluetoothReaderTestActivity -->
+    <string name="connect">Connect a device</string>
+    <string name="discoverable">Make discoverable</string>
+
+    <string name="EnrolID">Enrol ID</string>
+    <string name="Verify">Verify ID</string>
+    <string name="Identify">Search</string>
+    <string name="DeleteID">Delete ID</string>
+    <string name="ClearID">Clear</string>
+
+    <string name="EnrolHost">Enrol Template [5]</string>
+    <string name="CaptureHost">Capture Template [6]</string>
+    <string name="Match">Match Template [8]</string>
+
+    <string name="getdevsn">Device SN [2]</string>
+    <string name="getbat">Battery Value [3]</string>
+    <string name="getimage">Image and Data [7]</string>
+
+    <string name="linkdevice">Link Device [1]</string>
+    <string name="closedevice">Close Device [10]</string>
+    <string name="getver">Get Version [4]</string>
+
+    <string name="cardtest">Card Test</string>
+    <string name="flashtest">Flash Test</string>
+
+    <string name="cardwrite">Card Write</string>
+    <string name="cardread">Card Read</string>
+    <string name="cardmatch">Match</string>
+    <string name="cardfinger">Fingerprint Card Test</string>
+    <string name="card_name">Last Name</string>
+    <string name="card_birthday">First Name</string>
+    <string name="card_phone">Phone</string>
+    <string name="card_balance">Balance</string>
+    <string name="card_password">PIN</string>
+    <string name="card_finger">Fingerprint</string>
+    <string name="card_enrol">Enrol</string>
+    <string name="placefinger">Place finger </string>
+
+    <!--  BluetoothChat -->
+    <string name="send">Send</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="title_connecting">Connecting...</string>
+    <string name="title_connected_to">Connected: </string>
+    <string name="title_not_connected">Not connected</string>
+
+
+
+    <string name="take_photo">Take Photo</string>
+    <string name="start_capture">Start Capture</string>
+    <string name="stop_capture">Stop Capture</string>
+
+
+    <!--  BluetoothDeviceListActivity -->
+    <string name="scanning">Scanning for devices...</string>
+    <string name="select_device">Select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <!--    <string name="title_paired_devices">Paired Devices</string>-->
+    <!--    <string name="title_other_devices">Other Available Devices</string>-->
+    <!--    <string name="button_scan">Scan for devices</string>-->
+    <!--    <string name="title_activity_splash_screen">SplashScreen</string>-->
+    <!--    <string name="dummy_button">Dummy Button</string>-->
+    <!--    <string name="dummy_content">DUMMY\nCONTENT</string>-->
+
+    <string name="tfe_od_app_name" translation_description="Object Detection demo app [CHAR_LIMIT=40]">Face Recognition</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "212382158013",
+    "project_id": "vvuexampermitapp",
+    "storage_bucket": "vvuexampermitapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212382158013:android:b2a34eb0aa2c81bbdf7bd4",
+        "android_client_info": {
+          "package_name": "com.example.vvuexampermitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212382158013-v1er2q6onvf2ljump3im1mk8mqgq9gm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABJb3zsT1uNChbhQsEoJcosyd_AD5brfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212382158013-v1er2q6onvf2ljump3im1mk8mqgq9gm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
